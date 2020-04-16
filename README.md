@@ -4,7 +4,7 @@
 As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
 
 ## Description
-An employee directory using React.
+An employee directory using React.  You can search using the input in the nav bar or sort by last name or age by clicking on the arrows in the table header.
 
 ## Installation
 Clone to your local machine and open in your favorite code editor.  Open a bash terminal and do an "npm install" to get the node modules.  Then type "node server.js" to run the application.  Click on the link to open the program in local host.  
@@ -14,10 +14,10 @@ React.js, Axios
 
 ## Screen Shots
 ### Landing Screen
-![image](./public/img/workout.PNG)
+![image](./public/dir.png)
 
 ## Links
-[employee-directory](https://github.com/aagrosse/React-Employee-Directory)
+[employee-directory](https://aagrosse.github.io/React-Employee-Directory/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
